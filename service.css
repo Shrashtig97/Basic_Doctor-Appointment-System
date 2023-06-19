@@ -1,0 +1,56 @@
+.Myimg1{
+    height: fit-content;
+    padding-right: 922px;
+    padding-top: 31px;
+}
+
+.box2{
+    padding: 8px 16px;
+    padding-top: 3px;
+    font-size: x-large;
+    border-radius: 28px;
+    border: 2px solid white;
+    background-color:rgb(76, 116, 204);
+    color: white;
+    text-align: center;
+    
+}
+
+.algin1{
+    text-align: 200px;
+    padding-left: 193px;
+    text-align: left;
+    text-align: 20px;
+    list-style: none;
+    padding-left: 7px;
+    padding-top: 16px;
+    padding-right: 50px;
+}
+
+.head{
+    font-weight: bolder;
+}
+
+.para{
+    padding-top: 4px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.imgdoc{
+    padding-top:11px;
+    padding-left: 351px;
+}
+
+.Section2{
+    padding-left: 166px;
+}
+
+.para1{
+    padding-top: 4px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left:0px ;
+   
+}
